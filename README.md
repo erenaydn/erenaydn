@@ -3,10 +3,9 @@
   
 </h1>
 <h3 align='center'>
+
   
- *I took my first step into coding with Python in March 2021.*
-  
- *I have an interest in test automation processes and backend services.*
+ *I have an interest in  backend services.*
   
  *I am currently actively working as a software developer at an [Etiya](https://www.etiya.com/) company. I am a member of the backend developer team.*
   
