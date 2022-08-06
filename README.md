@@ -42,9 +42,6 @@
   <a href="https://spring.io/quickstart">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   </a>&nbsp;&nbsp;
-   <a href="https://spring.io/quickstart">
-    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
-  </a>&nbsp;&nbsp;
   <a href="https://spring.io/quickstart">
     <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -55,7 +52,22 @@
    <a href="https://spring.io/quickstart">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   </a>&nbsp;&nbsp;
-
+  <a href="https://spring.io/quickstart">
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://spring.io/quickstart">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://spring.io/quickstart">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
+  </a>&nbsp;&nbsp;
+  
+</p>
+<p align='center'>
+  
+   <a href="https://spring.io/quickstart">
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  </a>&nbsp;&nbsp;
 </p>
 
 <h3 align='center'><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
