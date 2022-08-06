@@ -109,7 +109,4 @@
   <a href="#"><img src="https://user-images.githubusercontent.com/83093241/135574426-ebc4429c-c1bd-423a-b384-8ff50be2fb7f.gif" width = 150px></a> 
 
 </p>
-<p align='center'>
-  <img src="https://badges.pufler.dev/visits/erenaydn/erenaydn">
 
-</p>
